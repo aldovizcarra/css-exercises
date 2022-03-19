@@ -1,0 +1,18 @@
+.odd {
+  background-color: rgb(255, 117, 140);
+  font-family: `Verdana`, `DejaVu Sans`, `sans-serif`;
+}
+
+#even-blue {
+  color: #1e4bf7;
+  font-size: 36px;
+}
+
+#even-green {
+  background-color: #1ef74b;
+  font-weight: bold;
+}
+
+.font-size-utility {
+  font-size: 24px;
+}
